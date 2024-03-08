@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=yashpandey2003)
-                                                                                     <div align="center">**Hi there 👋 I'm Yash Pandey**</div>
+                                                                                     <div align="center"><h2>**Hi there 👋 I'm Yash Pandey**</h2></div>
 
 <!--
 **yashpandey2003/yashpandey2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +34,8 @@ synopsis of the movie and see current ratings.
 
    <div align="center">Thanks for Visiting!</div><br>
    <div align="center">Show some ❤️ by starring and forking 🌟 the repositories.</div>
+<div align="center"><img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"></div>
+
 
 
 
