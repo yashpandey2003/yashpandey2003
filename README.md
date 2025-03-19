@@ -3,7 +3,7 @@
 <div align="center"><h2>**Hi there 👋 I'm Yash Pandey**</h2></div>
 
 🌠 **Projects/Repositories**
-1. [SprintSync](https://github.com/yashpandey2003/SprintSync): A project management web application built with Spring Boot and ReactJS, using Redux for state management. It includes Razorpay integration for payments, email functionality for inviting users, and ShadCN UI for an enhanced user experience. MySQL is used as the database.
+1. [SprintSync](https://github.com/yashpandey2003/SprintSync): A project management web application built with Spring Boot and ReactJS, using Redux for state management. It includes Razorpay integration for payments, email functionality for inviting users, and ShadCN UI for an enhanced user experience with a rate limiter implemented. MySQL is used as the database.
 2. [Made At Home](https://github.com/yashpandey2003/Maid-at-home): A full stack web app that helps you to find maid services under your budget easily by simply
 registering and logging in, you can see profiles of different house helpers stored in the database.
 3. [Chit Chat](https://github.com/yashpandey2003/Chit-Chat): A dynamic real-time chat application, employing WebSockets for seamless bidirectional communication.
